@@ -1,0 +1,8 @@
+.stack-work/
+learn-haskell.cabal
+*~
+.idea
+# IntelliJ IDEA
+*.iml
+*.iws
+/out/
