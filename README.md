@@ -30,4 +30,4 @@ Add `-fobject-code` means enabling `ghci` to support test `foreign` function.
 
 3) Integrate `libhs` with Android NDK APP :
 
-See [demo]() 
+See [demo](https://github.com/Guang1234567/hs-android-helloworld/blob/56ffcc907ed9c73a2edf32bb8834b01b0248309c/app/CMakeLists.txt#L58-L61) 
